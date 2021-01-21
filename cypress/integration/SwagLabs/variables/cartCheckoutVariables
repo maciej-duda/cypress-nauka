@@ -1,0 +1,10 @@
+export const testURL = "https://www.saucedemo.com/inventory-item.html?id=4";
+export const addCartButton = ".btn_primary";
+export const cartIcon = ".fa-layers-counter";
+export const checkoutButton = ".btn_action";
+export const firstNameInput = "[data-test=firstName]";
+export const lastNameInput = "[data-test=lastName]";
+export const postalCodeInput = "[data-test=postalCode]";
+export const continueCheckoutButton = ".btn_primary";
+export const errorMessage = "[data-test=error]";
+export const finishCheckoutButton = ".btn_action";
