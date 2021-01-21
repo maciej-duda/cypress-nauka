@@ -13,7 +13,7 @@ describe('Cart and checkout test', () => {
         .click()
     })
 
-    it('Open the cart and click click at checkout', () => {
+    it('Open the cart and click at checkout button', () => {
         cy
         .get(cartIcon)
         .click()
