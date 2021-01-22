@@ -1,4 +1,4 @@
-import { testURL, loginButton, errorMessage, usernameField, passwordField} from "./variables/loginFormVariables";
+import { testURL, loginButton, errorMessage, usernameField, passwordField} from "./variables/01-loginFormVariables";
 
 describe('Login form check', () => {
     beforeEach(() => {

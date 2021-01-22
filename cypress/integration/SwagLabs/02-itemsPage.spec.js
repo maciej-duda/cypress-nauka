@@ -1,4 +1,4 @@
-import { testURL, filterDropdown, inventoryItem, lastItemName, productNameURL } from "./variables/itemsPageVariables";
+import { testURL, filterDropdown, inventoryItem, lastItemName, productNameURL } from "./variables/02-itemsPageVariables";
 
 describe('Item page tests', () => {
     beforeEach(() => {

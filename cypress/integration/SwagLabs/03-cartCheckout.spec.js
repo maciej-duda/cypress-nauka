@@ -1,4 +1,4 @@
-import { testURL, addCartButton, cartIcon, checkoutButton, firstNameInput, lastNameInput, postalCodeInput, continueCheckoutButton, errorMessage, finishCheckoutButton } from "./variables/cartCheckoutVariables";
+import { testURL, addCartButton, cartIcon, checkoutButton, firstNameInput, lastNameInput, postalCodeInput, continueCheckoutButton, errorMessage, finishCheckoutButton } from "./variables/03-cartCheckoutVariables";
 
 describe('Cart and checkout test', () => {
     before(() => {
